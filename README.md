@@ -4,4 +4,4 @@ Evolution and forecast of unemployment over time
 
 
 
-*The report was created using a fictitious dataset
+This report was created using a fictitious dataset made available by Data Science Academy.
